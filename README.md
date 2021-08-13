@@ -22,4 +22,4 @@ After executing the program, a graph is drawn, under which information is displa
 **Example for interval [23, 1000]:**
 <br/>
 <br/>
-![image](https://user-images.githubusercontent.com/71276784/129427678-38b73d48-17e5-429e-b878-c2439c4c391f.png)
+![image](https://user-images.githubusercontent.com/71276784/129427707-4641255f-c45a-4693-bcec-bb70d98b09e3.png)
